@@ -1,0 +1,6 @@
+2025-06-03 11:51:58 INFO  org.example.util.DataBaseManager - //logger//Tabla Vehiculo creada correctamente
+2025-06-03 11:51:58 INFO  org.example.util.DataBaseManager - //logger//Tabla Moto creada correctamente
+2025-06-03 11:51:58 INFO  org.example.util.DataBaseManager - //logger//Tabla Auto creada correctamente
+2025-06-03 11:51:58 INFO  org.example.util.DataBaseManager - //logger//Base de datos inicializada correctamente
+2025-06-03 11:52:09 INFO  org.example.dao.AutoDAO - //logger//Auto encontrado con PATENTE 'jck835'
+2025-06-03 11:52:24 INFO  org.example.dao.AutoDAO - //logger//Insertado Auto con patente 'lkkjlk'
