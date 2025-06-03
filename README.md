@@ -78,3 +78,5 @@ ependencias Necesarias
 Nombre: Tomas Mastropietro
 Materia: Programación II - UTN FRM  
 Año:2025
+
+# RUTA A SEGUIR PARA ABRIR LAS CARPETAS DEL PROYECTO: src\main\java\org\example
